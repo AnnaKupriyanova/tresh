@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.div1 {
+    box-shadow: 0 10px 6px #535353;
+    text-align: center;
+    margin: 50px auto 50px auto;
+    background: #403c40;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    width: 400px;
+}
+
+a {
+    color: #ffffff;
+}
